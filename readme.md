@@ -20,8 +20,8 @@ Faites que ce soit beau et cool. Bon courage ;) .
 
 - Liens :
     - images : 
-        [Photo de profil](assets\img\yannick.jpg)  
-        assets\img\yannick.jpg  
+        [Photo de profil](assets/img/yannick.jpg)  
+        assets/img/yannick.jpg  
     - facebook :  
         Mon profil facebook : https://www.facebook.com/yannick.chargueraud  
     
