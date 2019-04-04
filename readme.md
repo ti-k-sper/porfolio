@@ -23,7 +23,7 @@ Faites que ce soit beau et cool. Bon courage ;) .
         [Photo de profil](C:\wamp64\www\exo_16_html-css_portfolio\assets\img\yannick.jpg)  
         C:\wamp64\www\exo_16_html-css_portfolio\assets\img\yannick.jpg  
     - facebook :  
-        Mon profil facebook https://www.facebook.com/yannick.chargueraud  
+        Mon profil facebook : https://www.facebook.com/yannick.chargueraud  
     
 - Formulaire de contact
 - Coordonnées : 
