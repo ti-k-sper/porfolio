@@ -13,11 +13,21 @@ Faites que ce soit beau et cool. Bon courage ;) .
 
 - Nom : CHARGUERAUD
 - Prénom : Yannick
-- Description : 
+- Description :
+
+    Yannick CHARGUERAUD, natif de Clermont-ferrand, originaire de la région thiernoise.  
+    Ma formation de base est dans le domaine du bois, en tant de technicien bureau d'études, mais je suis à l'heure actuelle en reconversation professionnelle dans le développement web / web mobile, pour apprendre le codage, et, mon souhait serait de devenir concepteur / développeur de logiciel pour le domaine du bois.
+
 - Liens :
+    - images : 
+        [Photo de profil](C:\wamp64\www\exo_16_html-css_portfolio\assets\img\yannick.jpg)  
+        C:\wamp64\www\exo_16_html-css_portfolio\assets\img\yannick.jpg  
+    - facebook :  
+        Mon profil facebook https://www.facebook.com/yannick.chargueraud  
+    
+- Formulaire de contact
 - Coordonnées : 
     - 6, rue Pierre Curie, 03160 Ygrande
     - 0665260303
     - y.chargueraud@hotmail.fr
-- Formulaire de contact
 
