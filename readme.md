@@ -22,6 +22,13 @@ Faites que ce soit beau et cool. Bon courage ;) .
     - images : 
         [Photo de profil](assets/img/yannick.jpg)  
         assets/img/yannick.jpg  
+        [Logos de facebook](assets/img/facebook_logos.jpg)  
+        assets/img/facebook_logos.jpg  
+        [Photo maquette n°1](assets/img/maquette_01.jpg)  
+        assets/img/maquette_01.jpg  
+        [Photo maquette n°2](assets/img/maquette_02.jpg)  
+        assets/img/maquette_02.jpg  
+
     - facebook :  
         Mon profil facebook : https://www.facebook.com/yannick.chargueraud  
     
@@ -29,5 +36,15 @@ Faites que ce soit beau et cool. Bon courage ;) .
 - Coordonnées : 
     - 6, rue Pierre Curie, 03160 Ygrande
     - 0665260303
-    - y.chargueraud@hotmail.fr
+    - y.chargueraud@hotmail.fr  
+
+## <span style="color: blue">**-Etapes-**</span>
+
+- Etape 1 : créer les différents dossiers et fichiers, initialiser git. (fait)  
+- Etape 2 : remplir le readme jusqu'à "Etapes". (fait)  
+- Etape 3 : créer un repository sur Github et lier. (fait)  
+- Etape 4 : faire une maquette. (fait)  
+- Etape 5 : découper la maquette en petites étapes. (fait)  
+- Etape 6 : faire le squelette html. (fait)  
+- Etape 7 : mise en forme avec CSS et Boutstrap. (en cours)  
 
