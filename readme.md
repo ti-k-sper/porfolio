@@ -22,8 +22,8 @@ Faites que ce soit beau et cool. Bon courage ;) .
     - images : 
         [Photo de profil](assets/img/yannick.jpg)  
         assets/img/yannick.jpg  
-        [Logos de facebook](assets/img/facebook_logos.jpg)  
-        assets/img/facebook_logos.jpg  
+        [Logos de facebook](assets/img/facebook_logos.png)  
+        assets/img/facebook_logos.png  
         [Photo maquette n°1](assets/img/maquette_01.jpg)  
         assets/img/maquette_01.jpg  
         [Photo maquette n°2](assets/img/maquette_02.jpg)  
