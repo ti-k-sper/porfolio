@@ -29,7 +29,10 @@ Faites que ce soit beau et cool. Bon courage ;) .
         - [Image contact2](assets/img/contact2.png)  
 
     - Github :  
-    Mon profil github : https://github.com/ti-k-sper  
+      - Mon profil github : https://github.com/ti-k-sper  
+      - Production 1 : blog_model https://ti-k-sper.github.io/blog_model/  
+      - Production 2 : Dates (age sur différente planète) https://ti-k-sper.github.io/Dates/  
+      - Production 3 : Puissance_4 https://ti-k-sper.github.io/Puissance_4/  
 
     - Modèle portfolio :  
     "The Town" : https://templatemo.com/live/templatemo_525_the_town  
