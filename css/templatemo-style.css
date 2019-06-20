@@ -65,7 +65,7 @@ a:focus {
 /* Navbar */
 
 .tm-navbar {
-  position: fixed;
+  position: fixed;    
   width: 100%;
   z-index: 1000;
   background-color: transparent;
