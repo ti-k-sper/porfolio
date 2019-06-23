@@ -23,20 +23,16 @@ Faites que ce soit beau et cool. Bon courage ;) .
 - Liens :
     - Images : 
         - [Photo de profil](assets/img/yannick.jpg)  
-        - [Logos de facebook](assets/img/facebook_logos.png)  
-        - [Image d'accés au portolio](assets/img/acces_site.png)  
-        - [Image introduction (présentation)](assets/img/introduction.png)  
-        - [Image de quelques productions](assets/img/production.png)  
-        - [Image contact1](assets/img/contact1.png)  
-        - [Image contact2](assets/img/contact2.png)  
-        - [Image clermont-ferrand_1](assets/img/clermont-ferrand_1.jpg)  
-        - [Image clermont-ferrand_2](assets/img/clermont-ferrand_2.jpg)  
+        - [Image réalisation blog model](assets/img/blog_model.png)
+        - [Image réalisation dates](assets/img/dates.png)
+        - [Image clermont-ferrand_1 (accés portfolio)](assets/img/clermont-ferrand_1.jpg)  
+        - [Image clermont-ferrand_2 (partie contact)](assets/img/clermont-ferrand_2.jpg)  
 
     - Github :  
       - Mon profil github : https://github.com/ti-k-sper  
-      - Production 1 : blog_model https://ti-k-sper.github.io/blog_model/  
-      - Production 2 : Dates (age sur différente planète) https://ti-k-sper.github.io/Dates/  
-      - Production 3 : Puissance_4 https://ti-k-sper.github.io/Puissance_4/  
+      - Production 1 (first mobil): blog_model https://github.com/ti-k-sper/blog_model  
+      - Production 2 (first mobil): Dates (age sur différente planète) https://github.com/ti-k-sper/Dates  
+      - Production 3 (simple back_end pour manipulation JS): Puissance_4 https://github.com/ti-k-sper/Puissance_4  
 
     - Modèle portfolio :  
     "The Town" : https://templatemo.com/live/templatemo_525_the_town  
