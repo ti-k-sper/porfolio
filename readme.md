@@ -15,8 +15,10 @@ Faites que ce soit beau et cool. Bon courage ;) .
 - Prénom : Yannick
 - Description :
 
-    Yannick CHARGUERAUD, natif de Clermont-ferrand, originaire de la région thiernoise.  
-    Ma formation de base est dans le domaine du bois, en tant de technicien bureau d'études, mais je suis à l'heure actuelle en reconversation professionnelle dans le développement web / web mobile, pour apprendre le codage, et, mon souhait serait de devenir concepteur / développeur de logiciel pour le domaine du bois.
+    Yannick CHARGUERAUD, natif de Clermont-ferrand, originaire de la région thiernoise.<br />  
+	Ma formation de base est dans le domaine du bois, en tant de technicien bureau d'études.<br />
+	Je suis à l'heure actuelle en reconversion professionnelle dans le développement web / web mobile, au sein du centre Aformac à Montluçon, afin d'obtenir un titre professionnel.<br />
+	Mon souhait pour l'avenir serait d'apprendre plusieurs laguages de programmation, et ainsi pouvoir devenir concepteur / développeur de logiciel pour le domaine du bois.
 
 - Liens :
     - Images : 
@@ -27,6 +29,8 @@ Faites que ce soit beau et cool. Bon courage ;) .
         - [Image de quelques productions](assets/img/production.png)  
         - [Image contact1](assets/img/contact1.png)  
         - [Image contact2](assets/img/contact2.png)  
+        - [Image clermont-ferrand_1](assets/img/clermont-ferrand_1.jpg)  
+        - [Image clermont-ferrand_2](assets/img/clermont-ferrand_2.jpg)  
 
     - Github :  
       - Mon profil github : https://github.com/ti-k-sper  
@@ -41,5 +45,3 @@ Faites que ce soit beau et cool. Bon courage ;) .
     - 6, rue Pierre Curie, 03160 Ygrande
     - 0665260303
     - y.chargueraud@hotmail.fr  
-
-
